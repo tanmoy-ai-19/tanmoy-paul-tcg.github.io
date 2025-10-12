@@ -1,5 +1,12 @@
 export const pubList = [
     {
+        "title": "Theoretical Design of Na-Rich Antiperovskites as Cathode Material for Sodium-Ion Batteries",
+        "authors": "R Boral, T Paul",
+        "journal": "ACS Applied Energy Materials",
+        "date": "2025",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8YG_SSAAAAAJ&sortby=pubdate&citation_for_view=8YG_SSAAAAAJ:tKAzc9rXhukC"
+    },
+    {
         "title": "Designing layered oxides as cathodes for sodium-ion batteries: Machine learning and density functional theory based modeling",
         "authors": "N Mishra, R Boral, T Paul",
         "journal": "Materials Today Physics",
