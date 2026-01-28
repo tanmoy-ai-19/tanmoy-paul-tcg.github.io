@@ -1,4 +1,11 @@
 export const pubList = [
+       {
+        "title": "First-Principles Investigation of Point Defects in Na-Antiperovskite Cathodes",
+        "authors": "A K Das, T Paul",
+        "journal": "Advanced Theory and Simulations",
+        "date": "2026",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adts.202502286"
+    },
     {
         "title": "Theoretical Design of Na-Rich Antiperovskites as Cathode Material for Sodium-Ion Batteries",
         "authors": "R Boral, T Paul",
